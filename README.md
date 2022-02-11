@@ -21,22 +21,3 @@
 Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
 
 Удачи!
-
-/* 
-@media screen and (max-width: 1140px) {
-    .lead {
- 
-    }
-}
-
-@media screen and (max-width: 984px) {
-    .lead {
-
-    }
-}
-
-@media screen and (max-width: 568px) {
-    .lead {
-
-    }
-} */
