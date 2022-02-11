@@ -1,0 +1,11 @@
+@media screen and (max-width: 728px) {
+    .footer__nav {
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .footer__nav {
+        margin-bottom: 48px;
+    }
+}
