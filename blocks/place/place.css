@@ -35,6 +35,7 @@
     .place {
         grid-template-columns: 1fr;
         column-gap: 32px;
+        row-gap: 32px;
     }
 }
 
